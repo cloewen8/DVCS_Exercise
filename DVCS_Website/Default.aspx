@@ -34,11 +34,13 @@
         <div class="col-md-4">
             <h2>Goals</h2>
             <p>
-                
+                My goal for this project is simple:
             </p>
-            <p>
-                <a class="btn btn-default" href="#">Learn more &raquo;</a>
-            </p>
+            <ul>
+                <li>Create a website as practice.</li>
+                <li>Get a minimum of %85 on this assignment.</li>
+                <li>Have fun!</li>
+            </ul>
         </div>
     </div>
 </asp:Content>
