@@ -3,18 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DVCS_WebSite", "..\..\Visual Studio 2015\WebSites\DVCS_WebSite\", "{A56FB12B-AF1F-458E-8C02-C7ECBDF68877}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DVCS_WebSite", "DVCS_WebSite\", "{A56FB12B-AF1F-458E-8C02-C7ECBDF68877}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_52901"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\Visual Studio 2015\WebSites\DVCS_WebSite\"
+		Debug.AspNetCompiler.PhysicalPath = "DVCS_WebSite\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52901\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_52901"
-		Release.AspNetCompiler.PhysicalPath = "..\..\Visual Studio 2015\WebSites\DVCS_WebSite\"
+		Release.AspNetCompiler.PhysicalPath = "DVCS_WebSite\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52901\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
