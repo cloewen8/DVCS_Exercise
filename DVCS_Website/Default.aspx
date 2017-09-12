@@ -26,9 +26,9 @@
                 My goal for this project is simple:
             </p>
             <ul>
-                <li>Create a website as practice.</li>
-                <li>Get a minimum of %85 on this assignment.</li>
-                <li>Have fun!</li>
+                <li>Create a website as <b>practice.</b></li>
+                <li>Get a minimum of <b>85%</b> on this assignment.</li>
+                <li>Have <b>fun!</b></li>
             </ul>
         </div>
     </div>
